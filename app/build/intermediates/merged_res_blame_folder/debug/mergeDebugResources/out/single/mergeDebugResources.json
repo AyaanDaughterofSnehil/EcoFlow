@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/anim_top_animation.xml.flat",
+        "source": "com.example.ecoflow.app-main-36:/anim/top_animation.xml"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.ecoflow.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/anim_bottom_animation.xml.flat",
+        "source": "com.example.ecoflow.app-main-36:/anim/bottom_animation.xml"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.ecoflow.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.ecoflow.app-main-36:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ecoflow.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/layout_activity_dashboard.xml.flat",
+        "source": "com.example.ecoflow.app-main-36:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.ecoflow.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.ecoflow.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/layout_activity_login.xml.flat",
+        "source": "com.example.ecoflow.app-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.example.ecoflow.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/font_aldrich.xml.flat",
+        "source": "com.example.ecoflow.app-main-36:/font/aldrich.xml"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/xml_backup_rules.xml.flat",
+        "source": "com.example.ecoflow.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ecoflow.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.ecoflow.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ecoflow.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ecoflow.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ecoflow.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ecoflow.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ecoflow.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ecoflow.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/drawable_logo.png.flat",
+        "source": "com.example.ecoflow.app-main-36:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/font_antic.xml.flat",
+        "source": "com.example.ecoflow.app-main-36:/font/antic.xml"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.ecoflow.app-main-36:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.ecoflow.app-debug-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.ecoflow.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    }
+]
